@@ -31,7 +31,7 @@ class _TranslateTextState extends State<TranslateText>{
                     padding:
                     EdgeInsets.only(left: 16.0, right: 16.0, top: 16.0),
                     child: Text(
-                      "Enter text",
+                      "Enter textt",
                       style: TextStyle(
                         color: Colors.grey[700],
                       ),
