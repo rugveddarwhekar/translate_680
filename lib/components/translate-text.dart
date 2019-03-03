@@ -48,7 +48,7 @@ class _TranslateTextState extends State<TranslateText>{
                 ),
                 ActionButton(
                   icon: Icons.group,
-                  text: "Chat",
+                  text: "Chat!",
                 ),
                 ActionButton(
                   icon: Icons.keyboard_voice,
